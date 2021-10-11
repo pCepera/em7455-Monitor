@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "em7455 Monitor", "em7455 Monitor.csproj", "{B4A072F1-EEF0-44C1-B071-F5D8E22A3A23}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "em7455_Monitor", "..\em7455_Monitor\em7455_Monitor.vdproj", "{4DDB050F-D8F6-4284-A014-27191C17EBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A072F1-EEF0-44C1-B071-F5D8E22A3A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A072F1-EEF0-44C1-B071-F5D8E22A3A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A072F1-EEF0-44C1-B071-F5D8E22A3A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A072F1-EEF0-44C1-B071-F5D8E22A3A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDB050F-D8F6-4284-A014-27191C17EBFB}.Debug|Any CPU.ActiveCfg = Debug
+		{4DDB050F-D8F6-4284-A014-27191C17EBFB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FDBAFDE-D44C-4811-867C-854A98BE736C}
+	EndGlobalSection
+EndGlobal
